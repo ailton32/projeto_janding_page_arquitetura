@@ -1,0 +1,1 @@
+# projeto_janding_page_arquitetura
